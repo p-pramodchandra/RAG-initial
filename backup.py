@@ -10,6 +10,7 @@ from langchain_community.document_loaders import PyPDFDirectoryLoader
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from dotenv import load_dotenv
 import os
+#hy
 load_dotenv()
 
 ## load the GROQ And OpenAI API KEY 
